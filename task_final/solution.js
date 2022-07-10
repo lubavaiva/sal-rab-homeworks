@@ -47,4 +47,3 @@ function sendRequest(name, phone, address = {street, house, entrance, floor, fla
     
     return jsonData;
 }
-console.log (jsonData);
